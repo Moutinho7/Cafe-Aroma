@@ -1,0 +1,181 @@
+Descrição Geral:
+Quero criar um site para a minha cafetaria artesanal, "Café Aroma". O site deverá ser moderno, acolhedor e transmitir a essência da nossa paixão pelo café artesanal. Preciso que o site seja responsivo e fácil de navegar, tanto em dispositivos móveis quanto em computadores.
+
+Seções do Site:
+Página Inicial:
+
+    Banner grande com uma imagem de alta qualidade do interior da cafetaria.
+
+    Uma breve descrição sobre o que torna o Café Aroma especial.
+
+    Botões de navegação para as principais seções do site.
+
+Sobre Nós:
+
+    História da cafetaria.
+
+    Fotos da equipa e do interior da loja.
+
+    Missão e valores da empresa.
+
+Menu:
+
+    Listagem dos produtos oferecidos (cafés, chás, bolos, sanduíches, etc.).
+
+    Imagens de alguns dos produtos.
+
+    Preços e descrições.
+
+Localização:
+
+    Mapa interativo mostrando a localização da cafetaria.
+
+    Endereço completo e contactos.
+
+Galeria:
+
+    Galeria de fotos destacando os momentos e eventos especiais na cafetaria.
+
+Contato:
+
+    Formulário de contato para mensagens e pedidos especiais.
+
+    Informações de contacto (telefone, e-mail, redes sociais).
+
+Blog:
+
+    Artigos sobre diferentes tipos de café, dicas de preparo, eventos na cafetaria, etc.
+
+Funcionalidades Especiais:
+    Newsletter Signup: Caixa para os usuários se inscreverem na newsletter da cafetaria.
+
+    Sistema de Avaliação: Seção onde os clientes podem deixar suas avaliações e comentários.
+
+    Loja Online: Se possível, integração de um pequeno e-commerce para venda de grãos de café e outros produtos artesanais.
+
+Rascunho de Estrutura:
+- index.html
+  - Header
+    - Navegação (links para Sobre Nós, Menu, Localização, etc.)
+  - Main Section
+    - Banner
+    - Introdução
+    - Links para as seções principais
+  - Footer
+    - Informações de contato e redes sociais
+
+- about.html
+  - Histórico da cafetaria
+  - Fotos da equipe e do local
+  - Missão e valores
+
+- menu.html
+  - Lista de produtos com imagens e descrições
+
+- location.html
+  - Mapa e informações de contato
+
+- gallery.html
+  - Galeria de fotos
+
+- contact.html
+  - Formulário de contato
+
+- blog.html
+  - Listagem de artigos e postagens
+
+- styles.css
+  - Estilos gerais do site
+Espero que este projeto seja útil para praticares Bootstrap! Se precisares de mais alguma coisa ou tiveres perguntas, estou aqui para ajudar. 🚀
+
+da-me os textos
+Claro, aqui estão os textos para as diferentes seções do site Café Aroma:
+
+Página Inicial:
+Bem-vindo ao Café Aroma! Descubra um mundo de sabores no Café Aroma, onde a nossa paixão pelo café artesanal transforma cada xícara numa experiência única. Venha nos visitar e sinta o aroma da felicidade.
+
+Explore o Nosso Site:
+
+-Sobre Nós
+
+-Menu
+
+-Localização
+
+-Galeria
+
+-Contato
+
+-Blog
+
+Sobre Nós:
+Nossa História: O Café Aroma nasceu do amor pelo café artesanal e da vontade de criar um espaço acolhedor onde amigos e familiares pudessem se reunir e desfrutar de momentos especiais.
+
+A Nossa Equipe: Conheça as pessoas por trás do Café Aroma, uma equipe dedicada a oferecer a melhor experiência possível aos nossos clientes.
+
+Missão e Valores: Nossa missão é proporcionar momentos de felicidade através do nosso café artesanal, sempre respeitando os valores de qualidade, sustentabilidade e comunidade.
+
+Menu:
+Cafés:
+
+Espresso: €2,00
+
+Cappuccino: €3,00
+
+Latte: €3,50
+
+Chás:
+
+Chá Verde: €2,50
+
+Chá de Camomila: €2,50
+
+Chá de Hortelã: €2,50
+
+Bolos e Sanduíches:
+
+Bolo de Chocolate: €4,00
+
+Cheesecake: €4,50
+
+Sanduíche de Frango: €5,00
+
+Localização:
+Visite-nos: Rua das Flores, 123, Porto, Portugal
+
+Contatos: Telefone: +351 123 456 789 E-mail: contato@cafearoma.pt
+
+Galeria:
+Momentos Especiais no Café Aroma: Confira algumas das fotos que capturam a essência do nosso café, desde eventos especiais até momentos do dia a dia.
+
+Contato:
+Envie-nos uma Mensagem: Tem alguma pergunta ou pedido especial? Entre em contato conosco através do formulário abaixo.
+
+Informações de Contato: Telefone: +351 123 456 789 E-mail: contato@cafearoma.pt Redes Sociais: Facebook, Instagram
+
+Blog:
+Bem-vindo ao Nosso Blog: Aqui, partilhamos dicas sobre diferentes tipos de café, técnicas de preparo, eventos no Café Aroma e muito mais. Explore os nossos artigos e descubra o universo do café artesanal.
+
+Dicas sobre diferentes tipos de café: "Descubra os aromas únicos de cafés da Etiópia, Colômbia e Brasil. Cada xícara conta uma história!"
+
+Café Etíope "Descubra as notas florais e delicadas deste café, perfeito para quem busca sabores leves e aromáticos."
+
+Café Colombiano "Um equilíbrio delicioso de doçura e acidez que encanta qualquer paladar."
+
+Café Brasileiro "Encorpado e com um toque achocolatado, é o favorito de quem aprecia intensidade."
+
+Técnicas de preparo: "Domine métodos clássicos como prensa francesa, aeropress e pour-over para uma experiência incrível, ou experimente o cold brew para uma bebida suave e refrescante."
+
+- **Prensa Francesa**: "Uma técnica que oferece um café encorpado e aromático."
+- **Aeropress**: "Método rápido para um café suave e equilibrado."
+- **Pour-over**: "Ideal para uma xícara limpa e cheia de sabor."
+- **Cold Brew**: "Infusão fria que realça doçura e suavidade."
+
+Eventos no Café Aroma: "Junte-se a nós para uma degustação especial. Boa companhia, bons cafés e momentos memoráveis." 
+"Saiba mais sobre os nossos eventos aqui!"
+
+Universo do café artesanal: "Conheça os produtores apaixonados que fazem o Café Aroma tão especial. Um brinde ao artesanal!" 
+"Explore os bastidores do Café Aroma aqui!"
+
+
+

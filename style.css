@@ -1,0 +1,144 @@
+/*.gradient-background {
+    background: linear-gradient(300deg, #FEFAF6, #DAC0A3, #EADBC8);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }*/
+
+.nav-link.active {
+    background-color: #543310 !important;
+}
+
+.nav-link {
+    color: #74512D
+}
+
+.nav-link:hover {
+    color: #543310;
+}
+
+.btn-primary {
+    background-color: transparent;
+    border-color: #74512D;
+    color: #74512D;
+}
+
+.btn-primary:hover {
+    background-color: #74512D;
+    border-color: #74512D;
+}
+
+.btn-outline-secondary {
+    border-color: #74512D;
+    color: #74512D;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #74512D;
+    border-color: #74512D;
+    color: white;
+}
+
+.team-image {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: rem;
+  }
+
+  .card {
+    border: 1px solid #af8f6f9a;
+    padding: 16px;
+    background-color: #fff;
+    max-width: 20rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto 1.5rem;
+  }
+
+  .card-text {
+    color: #74512D;
+  }
+
+  
+
+  h1 {
+    text-align: center;
+    margin-top: 30px;
+    color: #543310;
+  }
+
+  h2 {
+    font-size: rem; /* Menor que o h1 */
+    font-weight: bold;
+    color: #543310; /* Mesma cor para consistência */
+    margin-top: 1.5rem; /* Espaçamento superior */
+  }
+  
+  /* Estilo para parágrafos do h2 */
+  h2 + p {
+    font-size: 1.125rem; /* Tamanho menor do que o parágrafo do h1 */
+    font-weight: 300; /* Igual ao peso do h1 */
+    color: #543310;
+    margin-bottom: 1.5rem; /* Espaçamento inferior */
+  }
+
+  h5 {
+    color:#543310
+  }
+  
+  .ratio {
+    height: 500px;
+    width: 100%;
+  }
+
+  .custom-link {
+    color: #543310;
+    text-decoration: none;
+  }
+
+  .custom-link:hover {
+    color: #74512D;
+    text-decoration: none;
+  }
+
+  #FormControlInput1 {
+    color: #74512D;
+  }
+
+  #FormControlInput1::placeholder {
+    color: #AF8F6F;
+  }
+
+  #FormControlTextarea1 {
+    color: #74512D;
+  }
+
+  #FormControlTextarea1::placeholder {
+    color: #AF8F6F;
+  }
+
+  
+
+  
